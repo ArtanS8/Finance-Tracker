@@ -1,2 +1,2 @@
 # Finance-Tracker
-A simple Finances tracker app
+This is a simple finances tracker
